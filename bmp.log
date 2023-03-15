@@ -76,7 +76,4 @@
 	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:450) [browsermob-dist-2.1.4.jar:?]
 	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:873) [browsermob-dist-2.1.4.jar:?]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
-
-2131
-
-456
+123
